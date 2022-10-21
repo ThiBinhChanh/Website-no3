@@ -16,7 +16,10 @@ a {
     margin: 0;
     padding: 0;
     background-size: cover;
-    background-position-y: -18rem;
+    /* background-position-y: -18rem; */
+    background-position-y: -15.8rem;
+    
+    /* padding-bottom: 20%; */
 }
 .buttons {
     display: flex;
