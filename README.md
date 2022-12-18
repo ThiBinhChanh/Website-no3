@@ -1,2 +1,2 @@
 # BTVN
-EXAM
+EXAM about the Letter's birthday
